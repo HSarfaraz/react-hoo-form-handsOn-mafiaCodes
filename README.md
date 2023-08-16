@@ -14,4 +14,4 @@ npm i zod
 
 
 ### output
-![Alt text]D:\Sarfaraz_Workspace\youtube\mafia_codes\reactHooks\react-hook-form-tutorial\output.png
+![Alt text] https://github.com/HSarfaraz/react-hook-form-handsOn-mafiaCodes/blob/main/output.png
